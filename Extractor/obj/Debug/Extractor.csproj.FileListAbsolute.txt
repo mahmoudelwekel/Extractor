@@ -1,4 +1,6 @@
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\Extractor.exe.config
+E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\Extractor.exe.manifest
+E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\Extractor.application
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\Extractor.exe
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\Extractor.pdb
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\ClosedXML.dll
@@ -10,11 +12,11 @@ E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\DocumentFormat.Open
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\ExcelNumberFormat.xml
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.Extractor.resources
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.Properties.Resources.resources
-E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.csproj.GenerateResource.Cache
-E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.exe
-E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.pdb
-E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\Extractor.exe.manifest
-E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\bin\Debug\Extractor.application
+E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.csproj.GenerateResource.cache
+E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.csproj.CoreCompileInputs.cache
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.TrustInfo.xml
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.exe.manifest
 E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.application
+E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.csproj.CopyComplete
+E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.exe
+E:\WORK\Desktop Apps\Extractor\Extractor\Extractor\obj\Debug\Extractor.pdb
